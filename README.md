@@ -6,3 +6,4 @@ This repository is built for just making "Crazy" interesting applications of Ope
 2. Buttons on OpenCV frame to select between different colors
 3. Hand Recognisation
 4. Hand Gesture Identification
+ 
